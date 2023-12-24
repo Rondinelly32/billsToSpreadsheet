@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\ExampleTest::test_example":5,"Tests\\Feature\\ExampleTest::testImportPdfText":5},"times":{"Tests\\Feature\\ExampleTest::test_example":0.911,"Tests\\Feature\\ExampleTest::testImportPdfText":0.134}}
